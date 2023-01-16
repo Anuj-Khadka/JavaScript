@@ -18,6 +18,8 @@ var age=122
 console.assert(age>120,'you lived long');
 
 
+console.dir(document)
+
 
 // Comment
 // single line comment 

@@ -1,0 +1,1 @@
+// cretate a digital clock using setinteral and date object
