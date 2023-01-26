@@ -49,7 +49,7 @@ function loadScript(source){
     let script = document.createElement("script")
     script.src = source;
     script.onload = function(){
-        resolve(script);
+        resolve(source);
     }
     script.onerror = function(error){
         reject("there was an error", error);
