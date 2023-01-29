@@ -33,7 +33,7 @@
 
 // trying with async/await 
 
-let fun = ()=>{
+let fun = ()=> {
     return new Promise((resolve, reject)=>{
         setTimeout(() => {
             resolve("Promise resolved")
