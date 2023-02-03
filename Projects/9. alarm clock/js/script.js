@@ -15,5 +15,6 @@ function alarmClock() {
     }
   }
 }
-    
+
 let alarmTime = setInterval(alarmClock, 1000);
+
