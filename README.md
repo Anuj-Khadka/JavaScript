@@ -1,1 +1,2 @@
-# I will update my JavaScript notes here.
+# This repository contains all the important concepts and topics in JavaScript.
+
