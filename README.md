@@ -8,3 +8,6 @@ Please note that the repo might be missing some of concepts, but I will try to c
 * [Basics](basics)
 * [Advanced](advanced)
 * [OOP-JS](oops-js)
+
+
+**Do share the feedback and any resources that you find is useful.**
