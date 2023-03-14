@@ -5,6 +5,7 @@ Please note that the repo might be missing some of concepts, but I will try to c
 
 
 * [Projects](projects)
+> The link contains projects starting from absolute beginner concepts to advance concepts.
 * [Basics](basics)
 * [Advanced](advanced)
 * [OOP-JS](oops-js)
