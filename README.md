@@ -10,4 +10,4 @@ Please note that the repo might be missing some of concepts, but I will try to c
 * [OOP-JS](oops-js)
 
 
-**Do share the feedback and any resources that you find is useful.**
+**Do share the feedback and any pure JavaScript resources that you find is useful.**
